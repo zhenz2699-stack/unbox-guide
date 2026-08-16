@@ -1,6 +1,6 @@
 # 搬瓦工搭建个人专属网络指南
 
-电脑下载 WorkBuddy、QoderWork 或者其他本地 AI，直接把对应你电脑的链接发给 AI 就可以直接安装。
+电脑下载 WorkBuddy、QoderWork 或者其他本地 AI，直接把对应你电脑的链接发给 AI 就可以直接安装。如果不知道自己适合哪款，可以在[搬瓦工选型参考](https://unboxvps.com/)选择合适自己的。
 
 ## 目录
 
